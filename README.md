@@ -4,9 +4,9 @@ Stat-157-HW-2
 Members:  
 --
 Bonghyun Kim  
-David Wang
-Hyungkyu Chang
-Sung Hoon Choi
+David Wang  
+Hyungkyu Chang  
+Sung Hoon Choi  
 
 
 Preliminary Setup Steps
